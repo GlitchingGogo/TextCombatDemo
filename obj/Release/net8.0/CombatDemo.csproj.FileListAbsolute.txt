@@ -1,0 +1,14 @@
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\CombatDemo.exe
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\CombatDemo.deps.json
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\CombatDemo.runtimeconfig.json
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\CombatDemo.dll
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\CombatDemo.pdb
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.AssemblyInfoInputs.cache
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.AssemblyInfo.cs
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.csproj.CoreCompileInputs.cache
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.dll
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\refint\CombatDemo.dll
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.pdb
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\CombatDemo.genruntimeconfig.cache
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\obj\Release\net8.0\ref\CombatDemo.dll

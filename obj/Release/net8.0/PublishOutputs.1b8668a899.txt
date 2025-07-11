@@ -1,0 +1,5 @@
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\publish\CombatDemo.exe
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\publish\CombatDemo.dll
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\publish\CombatDemo.deps.json
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\publish\CombatDemo.runtimeconfig.json
+D:\GameDev\_Projects\CombatDemo\TextCombatDemo\bin\Release\net8.0\publish\CombatDemo.pdb
